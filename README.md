@@ -1,8 +1,6 @@
-# Qt AimLab Lite 🎯
+# Qt AimLab Lite 
 
-![Qt](https://img.shields.io/badge/Qt-5.x%2F6.x-green.svg) ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg) ![License](https://img.shields.io/badge/License-MIT-orange.svg)
-
-## 📖 简介 (Introduction)
+##  简介 (Introduction)
 
 **Qt Aim Trainer** 是一个基于 **Qt Framework (C++)** 开发的桌面端瞄准训练小程序。
 
@@ -10,7 +8,7 @@
 
 > **Qt Aim Trainer** is a lightweight desktop aim training application built with **Qt Framework (C++)**. It simulates FPS game mechanics to help users improve mouse accuracy and reaction time.
 
-## ✨ 功能特性 (Features)
+##  功能特性 (Features)
 
 *   **多阶段流程控制**：完整的应用流程（开始 -> 说明 -> 选关 -> 游戏 -> 结算）。
 *   **难度/样式选择 (Level System)**：
