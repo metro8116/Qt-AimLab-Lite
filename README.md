@@ -6,8 +6,6 @@
 
 该项目模拟了 FPS 游戏中的练枪环节，旨在帮助用户提高鼠标点击的准确度和反应速度。程序采用了模块化设计，包含开始界面、游戏说明、难度选择以及核心的游戏交互逻辑。
 
-> **Qt Aim Trainer** is a lightweight desktop aim training application built with **Qt Framework (C++)**. It simulates FPS game mechanics to help users improve mouse accuracy and reaction time.
-
 ##  功能特性 (Features)
 
 *   **多阶段流程控制**：完整的应用流程（开始 -> 说明 -> 选关 -> 游戏 -> 结算）。
